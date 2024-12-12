@@ -23,7 +23,7 @@ public class Employee {
     }
 
     public String toString(){
-        return "Name: " + name + "Title: " + title + "Salary: " + salary;
+        return "Name: " + name + " Title: " + title + " Salary: " + salary;
     }
 
 

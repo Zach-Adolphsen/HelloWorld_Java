@@ -14,6 +14,13 @@ public class Main {
 
             if(i == 4) break;
         }
+
+        Employee em1 = new Employee("Justin", "CEO", 200000);
+        Employee em2 = new Employee("Chris", "Janitor", 50000);
+
+        System.out.println(em1.toString());
+        System.out.println(em2.toString());
+
     }
 
 }
